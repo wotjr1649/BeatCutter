@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4e136e9-471f-42be-ab10-ff9cec209da7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeshCut/MeshSlice/SlicedHull.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Blade/BladeModeScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Note/BeatGameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Note/NoteGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Note/UI/UIAutoCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AudioPeer/Scripts/AudioPeer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Note/UI/UIRootController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeshCut/MeshSlice/Framework/Plane.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeshCut/MeshSlice/Framework/Line.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Note/AdvancedAudioAnalyzer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeshCut/MeshSlice/Framework/Triangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Note/Destroyer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeshCut/MeshSlice/Framework/TextureRegion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeshCut/MeshSlice/Slicer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Koch/KochGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/AdvancedAudioAnalyzer.cs" />
+        <option value="$PROJECT_DIR$/Assets/DATA/KochTrail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Destroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioVisualizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/DATA/AudioPeer/Scripts/AudioPeer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIRootController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeatGameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NoteGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/Editor/IntersectionDebug.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/Editor/PlaneUsageExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/Editor/PlaneUsageExampleEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/Editor/RuntimeShatterExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/Editor/ShatterExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/Editor/ShatterExampleEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/Editor/TriangulationDebug.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/EzySlice/Framework/IntersectionResult.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/EzySlice/Framework/Intersector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/EzySlice/Framework/Plane.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/EzySlice/Framework/TextureRegion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/EzySlice/Framework/Triangle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/EzySlice/Framework/Triangulator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/EzySlice/SlicedHull.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/EzySlice/Slicer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/EzySlice/SlicerExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Blade/BladeModeScripts.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Note/UI/UIRootController.cs" />
+        <option value="$PROJECT_DIR$/Assets/BladeModeScripts.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Note/Destroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Note/UI/UIAutoCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Blade/BladeModeScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Note/AdvancedAudioAnalyzer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshCut/MeshSlice/Framework/Plane.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UY5UOQ3uNVuNtGjgumhzYbKHn3" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4e136e9-471f-42be-ab10-ff9cec209da7" name="Default Changelist" comment="" />
+      <created>1575543846107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575543846107</updated>
+      <workItem from="1575543847484" duration="10147000" />
+      <workItem from="1575596017674" duration="2160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
